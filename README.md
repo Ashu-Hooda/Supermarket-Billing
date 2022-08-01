@@ -21,4 +21,4 @@
 
 <h3>Screenshot/GIF of this project.</h3>
 
-![Bill]([https://user-images.githubusercontent.com/72568715/134779769-7695a727-adbb-43b7-9e60-1205dc982ae7.PNG](https://github.com/Ashu-Hooda/Supermarket-Billing/blob/main/Preview.png))
+![Bill](https://github.com/Ashu-Hooda/Supermarket-Billing/blob/main/Preview.png)
